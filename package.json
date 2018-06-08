@@ -1,0 +1,25 @@
+{
+  "name": "bitcoin-tutorial",
+  "version": "1.0.0",
+  "description": "a simple blockchain implementation in javascript, inspired by https://savjee.be",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navs23/blockchain.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "naveen sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navs23/blockchain/issues"
+  },
+  "homepage": "https://github.com/navs23/blockchain#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
